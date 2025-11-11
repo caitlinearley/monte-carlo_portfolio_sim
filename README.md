@@ -29,9 +29,9 @@ S_{t+1} = S_t \cdot \exp\left( \left( \mu - \frac{1}{2} \sigma^2 \right) \Delta 
 $$
 
 For Mobile Users:
-
-S_{t+1} = S_t * exp((μ - (1/2)σ²)Δt + σ√Δt * Z_t)
-
+$$
+S_{t+1} = S_t * exp((\mu - (1/2)\sigma^2)Δt + \sigma√\Delta t * Z_t)
+$$
 Where:
 
 * $S_t$: The stock price at time $t$
