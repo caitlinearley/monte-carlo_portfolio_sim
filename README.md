@@ -30,7 +30,7 @@ $$
 
 For Mobile Users:
 $$
-S_{t+1} = S_t * exp((\mu - (1/2)\sigma^2)Δt + \sigma√\Delta t * Z_t)
+S_{t+1} = S_t \cdot exp((\mu - (1/2)\sigma^2)\Delta t + \sigma \sqrt{\Delta t} \cdot Z_t)
 $$
 Where:
 
