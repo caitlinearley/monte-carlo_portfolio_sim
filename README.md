@@ -27,11 +27,6 @@ Here’s the equation we use to simulate it:
 $$
 S_{t+1} = S_t \cdot \exp\left( \left( \mu - \frac{1}{2} \sigma^2 \right) \Delta t + \sigma \sqrt{\Delta t} \cdot Z_t \right)
 $$
-
-For Mobile Users:
-$$
-S_{t+1} = S_t \cdot exp((\mu - (1/2)\sigma^2)\Delta t + \sigma \sqrt{\Delta t} \cdot Z_t)
-$$
 Where:
 
 * $S_t$: The stock price at time $t$
